@@ -2,6 +2,7 @@
 overview of interesting health and fitness OSS/FOSS apps and tools
 | Name       | Description                                                    | Links                                                                 | License |
 |------------|----------------------------------------------------------------|----------------------------------------------------------------------|---------|
+| Body.build | Science-based weight lifting program maker & diet macros       | [body.build](https://body.build), [GitHub](https://github.com/Dieterbe/body.build) | AGPL-3 |
 | Wger       | Webapp + mobile app for weight lifting, body measurements, nutrition tracking and gym management. Self-hostable | [wger.de](https://wger.de)    [GitHub](https://github.com/wger-project)                                          | AGPL-3    |
 | Feeel      | Android and Linux flutter app to follow guided workouts       | [GitLab](https://gitlab.com/enjoyingfoss/feeel)                       |      AGPL-3   |
 | Waistline  | Android app to track food, calorie intake and weight       | [GitHub](https://github.com/davidhealey/waistline)                    | GPL-3.0 |
