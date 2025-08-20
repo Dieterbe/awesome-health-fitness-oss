@@ -16,7 +16,7 @@ overview of interesting health and fitness OSS/FOSS apps and tools
 | Just another Workout Timer | Build, time and track workouts | Flutter | [GitHub](https://github.com/blockbasti/just_another_workout_timer) | MIT |
 | Kenko | Workout journal which will provide you with appropriate progressive-overload and well thought-out plans | Kotlin | [GitHub](https://github.com/Iamlooker/Kenko) | GPL-3 |
 | LiftLog    | Local-only. Track weight lifting progression, and share workouts to your feed (optional) | .NET MAUI Blazor | [Github](https://github.com/LiamMorrow/LiftLog) [Reddit](https://www.reddit.com/r/opensource/comments/17vp9pp/liftlog_an_easy_to_use_open_source_gym_tracking/) | AGPL-3    |
-| Liftosaur | Open-source powerful weight lifting tracker PWA for coders. uses a script language to program your own logic for progressive overload, deloads, etc | TypeScript | [GitHub](https://github.com/astashov/liftosaur)                      |    AGPL-3     |
+| Liftosaur | Open-source powerful weight lifting tracker PWA for coders. uses a script language to program your own logic for progressive overload, deloads, etc | TS, Preact| [GitHub](https://github.com/astashov/liftosaur)                      |    AGPL-3     |
 | OpenHIIT | Cross-platform HIIT and Tabata interval timer with customizable timers and audio cues | Flutter | [GitHub](https://github.com/a-mabe/OpenHIIT) | MIT |
 | OpenTracks | Navigate, log, analyze outdoor workouts, with gadget integrations | Java | [GitHub](https://github.com/OpenTracksApp/OpenTracks) | apache-2 |
 | openWorkout | Simple workout trainer that puts your privacy first, with pre-configured workout plans | Java | [GitHub](https://github.com/oliexdev/openWorkout) | GPL-3.0 |
@@ -26,7 +26,7 @@ overview of interesting health and fitness OSS/FOSS apps and tools
 | Tapiriik   | Sync between many fitness services                            | Python | [GitHub](https://github.com/cpfair/tapiriik), [Hosted](https://tapiriik.com/)                          |   apache-2      |
 | Unbroken | Progressive Web App for strength & cardio tracking, based on the Tactical Barbell books | React | [GitHub](https://github.com/Bruno-366/Unbroken) [Homepage](https://unbroken-app.com/) | MIT |
 | Verifit | Minimalist fitness tracker inspired by FitNotes with exercise tracking and data visualization (*archived*) | Java | [GitHub](https://github.com/MakisChristou/verifit) | GPL-3.0 |
-| Waistline  | Android app to track food, calorie intake and weight       |  | [GitHub](https://github.com/davidhealey/waistline)                    | GPL-3.0 |
+| Waistline  | Android app to track food, calorie intake and weight       | JS, Cordova, Framework7| [GitHub](https://github.com/davidhealey/waistline)                    | GPL-3.0 |
 | Wger       | Webapp + mobile app for weight lifting, body measurements, nutrition tracking and gym management. Self-hostable | Python, Django | [wger.de](https://wger.de)    [GitHub](https://github.com/wger-project)                                          | AGPL-3    |
 | Workout time! | app for managing and performing timed workouts | Flutter | [GitLab](https://gitlab.com/ideotec/workouttime) | GPL v3 |
 | Workout-tracker| Self-hosted, all-inclusive workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities | Go, htmx, tailwind | [GitHub](https://github.com/jovandeginste/workout-tracker)    [hackernews](https://news.ycombinator.com/item?id=39549194) | MIT |
