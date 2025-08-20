@@ -28,4 +28,5 @@ overview of interesting health and fitness OSS/FOSS apps and tools
 | Verifit | Minimalist fitness tracker inspired by FitNotes with exercise tracking and data visualization (*archived*) | Java | [GitHub](https://github.com/MakisChristou/verifit) | GPL-3.0 |
 | Waistline  | Android app to track food, calorie intake and weight       |  | [GitHub](https://github.com/davidhealey/waistline)                    | GPL-3.0 |
 | Wger       | Webapp + mobile app for weight lifting, body measurements, nutrition tracking and gym management. Self-hostable | Python, Django | [wger.de](https://wger.de)    [GitHub](https://github.com/wger-project)                                          | AGPL-3    |
+| Workout time! | app for managing and performing timed workouts | Flutter | [GitLab](https://gitlab.com/ideotec/workouttime) | GPL v3 |
 | Workout-tracker| Self-hosted, all-inclusive workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities | Go, htmx, tailwind | [GitHub](https://github.com/jovandeginste/workout-tracker)    [hackernews](https://news.ycombinator.com/item?id=39549194) | MIT |
