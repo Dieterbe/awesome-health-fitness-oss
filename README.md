@@ -17,4 +17,15 @@ overview of interesting health and fitness OSS/FOSS apps and tools
 | Stronk | Web app for exercise tracking, mainly geared towards Jim Wendler's 5/3/1 | [GitHub](https://github.com/bcspragu/stronk) | MIT |
 | OpenTracks | Navigate, log, analyze outdoor workouts, with gadget integrations | [GitHub](https://github.com/OpenTracksApp/OpenTracks) | apache-2 |
 | OutRun | Outdoor workout (walking, cycling, running, ...) logger/viewer for iOS (Swift)| [GitHub](https://github.com/timfraedrich/OutRun) [Hackernews](https://news.ycombinator.com/item?id=41983415)| GPL-3 |
-| Unbroken | A React-based Progressive Web App for strength & cardio tracking, based on the Tactical Barbell books | [GitHub](https://github.com/Bruno-366/Unbroken) [Homepage](https://unbroken-app.com/) | MIT |
+| Unbroken | React-based Progressive Web App for strength & cardio tracking, based on the Tactical Barbell books | [GitHub](https://github.com/Bruno-366/Unbroken) [Homepage](https://unbroken-app.com/) | MIT |
+| OpenHIIT | Cross-platform HIIT and Tabata interval timer with customizable timers and audio cues | [GitHub](https://github.com/a-mabe/OpenHIIT) in flutter | MIT |
+| openWorkout | Simple workout trainer that puts your privacy first, with pre-configured workout plans | [GitHub](https://github.com/oliexdev/openWorkout) | GPL-3.0 |
+| RunnerUp | Open source run tracker with GPS tracking, heart rate monitoring, and external app sync | [GitHub](https://github.com/jonasoreland/runnerup) in java | GPL-3.0 |
+| Fast N Fitness | Android fitness workout tracker for logging exercises and progress | [GitHub](https://github.com/brodeurlv/fastnfitness) in java | BSD-3-Clause |
+| Just another Workout Timer | Build, time and track workouts, built with Flutter | [GitHub](https://github.com/blockbasti/just_another_workout_timer) in flutter | MIT |
+| Verifit | Minimalist fitness tracker inspired by FitNotes with exercise tracking and data visualization (*archived*) | [GitHub](https://github.com/MakisChristou/verifit) in java | GPL-3.0 |
+| Dice GAinz | Random workout generator based on the General Gainz training method | [GitHub](https://github.com/ramzan/dicegainz) in kotlin | GPL-3.0 |
+| Flexify | Lightning-quick gym tracker with offline functionality and progress visualization in flutter | [GitHub](https://github.com/brandonp2412/Flexify) [Hosted](https://brandonp2412.github.io/Flexify/) | MIT |
+| FitBook | Calorie logging app with food database and barcode scanning via OpenFoodFacts (flutter)| [GitHub](https://github.com/brandonp2412/FitBook) | MIT |
+| Kenko | Workout journal which will provide you with appropriate progressive-overload and well thought-out plans - in kotlin| [GitHub](https://github.com/Iamlooker/Kenko) | GPL-3 |
+| 5/3/1 Log | track your workouts and progress using the popular 5/3/1 strength training method - flutter | [GitHub](https://github.com/Willames-Jr/fivetone_log) | GPL-3 |
