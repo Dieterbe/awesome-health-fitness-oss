@@ -32,6 +32,7 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 | OpenScale | Track and visualize weight and 22 other body metrics - supports many bluetooth scales | Java | [GH](https://github.com/oliexdev/openScale) | GPLv3|
 | OpenTracks | Navigate, log, analyze outdoor workouts, with gadget integrations | Java | [GH](https://github.com/OpenTracksApp/OpenTracks), [home](https://opentracksapp.com/) | apache-2 |
 | OutRun | Outdoor workout (walking, cycling, running, etc) logger/viewer for iOS | Swift | [GH](https://github.com/timfraedrich/OutRun), [HN](https://news.ycombinator.com/item?id=41983415), [home](https://outrun.tadris.de/)| GPL-3 |
+| runFlutterRun | outdoor activity tracker& viewer with social component (comments etc) | Flutter, Java | [GH](https://github.com/BenjaminCanape/RunFlutterRun) | MIT |
 | RunnerUp | Open source run tracker with GPS tracking, heart rate monitoring, and external app sync - android and wearOS, integrates with other services - looks great| Java | [GH](https://github.com/jonasoreland/runnerup) | GPL-3.0 |
 | Simple | Create, schedule, track, analyze your lifting workouts locally | TS | [GH](https://github.com/basarsubasi/simplefitnessapp) | MIT |
 | Tapiriik   | Sync between many fitness services (for outdoor activities)                          | Python | [GH](https://github.com/cpfair/tapiriik), [Hosted](https://tapiriik.com/)                          |   apache-2, commercial auto-syncing      |
@@ -49,9 +50,11 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 | Elevate    | Web/Mac/Windows analytics and more around Strava and relive ([no screenshots?](https://github.com/thomaschampagne/elevate/issues/1229))| TS, Angular, D3, LokiJS| [GH](https://github.com/thomaschampagne/elevate), [home](https://thomaschampagne.github.io/elevate-docs/)                 |      MPL-2   |
 | Just another Workout Timer | Build, time and track workouts | Flutter | [GH](https://github.com/blockbasti/just_another_workout_timer) | MIT |
 | Kenko | Beatiful Workout builder and logger (no stats/viz/progressions)| Kotlin | [GH](https://github.com/Iamlooker/Kenko) | GPL-3 |
+| NeverSkip | polished workout planner and tracker (commercial app) | Flutter, firebase | [GH](https://github.com/NeXTormer/NeverSkip) | AGPL-3 |
 | OpenNutriTracker | nutrition tracking, barcode scanning backed by OFF and USDA| Flutter | [GH](https://github.com/simonoppowa/OpenNutriTracker) | 
 | openWorkout | Simple conditioning workout trainer that puts your privacy first, with pre-configured workout plans | Java | [GH](https://github.com/oliexdev/openWorkout) | GPL-3.0 |
 | OpenTrackers | Workout, calorie, task tracker for iOS and apple watch | Swift | [GH](https://github.com/open-trackers) | MPL |
+| runTrack | track runs, calculate stats and show on google maps, also tracks with app closed | Jetpack compose, Kotlin | [GH](https://github.com/sDevPrem/run-track) | [tbd](https://github.com/sDevPrem/run-track/issues/10) | 
 | Stronk | Web app for exercise tracking, mainly geared towards Jim Wendler's 5/3/1 | Go/Svelte | [GH](https://github.com/bcspragu/stronk) | MIT |
 | Verifit | Minimalist fitness tracker inspired by FitNotes with exercise tracking and data visualization (*archived*) | Java | [GH](https://github.com/MakisChristou/verifit) | GPL-3.0 |
 | Waistline  | Android app to track food, calorie intake and weight       | JS, Cordova, Framework7| [GH](https://github.com/davidhealey/waistline)                    | GPL-3.0 |
@@ -59,4 +62,4 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 
 ## Finding more health & fitness Free/Open Source projects
 
-GitHub topics: [fitness](https://github.com/topics/fitness), [gym](https://github.com/topics/gym), [gym-app](https://github.com/topics/gym-app), [workout-planner](https://github.com/topics/workout-planner),[workout-tracker](https://github.com/topics/workout-tracker)
+GitHub topics: [fitness](https://github.com/topics/fitness), [fitness-app](https://github.com/topics/fitness-app) [gym](https://github.com/topics/gym), [gym-app](https://github.com/topics/gym-app), [workout-planner](https://github.com/topics/workout-planner),[workout-tracker](https://github.com/topics/workout-tracker)
