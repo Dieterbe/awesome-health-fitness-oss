@@ -27,6 +27,7 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 | Flexify | Offline quick lifts tracker with progress visualization - limited exercise library | Flutter | [GH](https://github.com/brandonp2412/Flexify), [Hosted](https://brandonp2412.github.io/Flexify/) | MIT |
 | LiftLog    | Local-only. Build and track lifting workouts and progression, and share workouts to your feed (optional) for android/ios/web | .NET, react native | [GH](https://github.com/LiamMorrow/LiftLog), [Reddit](https://www.reddit.com/r/opensource/comments/17vp9pp/liftlog_an_easy_to_use_open_source_gym_tracking/)| AGPL-3, [Commercially supported](https://liftlog.online/)    |
 | Liftosaur | Lifting tracker PWA for coders. uses scripting language to program progressive overload, deloads in premade, or custom plans | TS, Preact| [GH](https://github.com/astashov/liftosaur)                      |    AGPL-3     |
+| Lotti | track habits, tasks, body measurements, daily notes | Flutter | [GH](https://github.com/matthiasn/lotti) | GPL-3|
 | MyFit | PWA Workout tracker inspired by the RP Hypertrophy App | Node, TS, CockroachDB | [GH](https://github.com/WhyAsh5114/MyFit), [hosted](https://myfit.fit/) | AGPL-3 |
 | OpenHIIT | Cross-platform HIIT and Tabata interval timer with customizable timers and audio cues | Flutter | [GH](https://github.com/a-mabe/OpenHIIT) | MIT |
 | OpenScale | Track and visualize weight and 22 other body metrics - supports many bluetooth scales | Java | [GH](https://github.com/oliexdev/openScale) | GPLv3|
@@ -36,6 +37,7 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 | RunnerUp | Open source run tracker with GPS tracking, heart rate monitoring, and external app sync - android and wearOS, integrates with other services - looks great| Java | [GH](https://github.com/jonasoreland/runnerup) | GPL-3.0 |
 | Simple | Create, schedule, track, analyze your lifting workouts locally | TS | [GH](https://github.com/basarsubasi/simplefitnessapp) | MIT |
 | Tapiriik   | Sync between many fitness services (for outdoor activities)                          | Python | [GH](https://github.com/cpfair/tapiriik), [Hosted](https://tapiriik.com/)                          |   apache-2, commercial auto-syncing      |
+| Trale | Beautiful app focused on weight tracking and predicting (for android) | Flutter | [GH](https://github.com/QuantumPhysique/trale) | AGPL-3 |
 | Unbroken | Progressive Web App for strength & cardio tracking, based on the Tactical Barbell books | React | [GH](https://github.com/Bruno-366/Unbroken), [home](https://unbroken-app.com/) | MIT |
 | Wger       | Webapp + mobile app for weight lifting, body measurements, nutrition tracking (backed by OFF and USDA) and gym management. Self-hostable | Python, Django, Flutter | [home](https://wger.de),    [GH](https://github.com/wger-project)                                          | AGPL-3    |
 | Wingfit |  fitness app to plan your workouts, track your personal records and leverage smartwatch data |FastAPI (py), Angular (TS)| [GH](https://github.com/itskovacs/wingfit) |
@@ -57,6 +59,7 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 | runTrack | track runs, calculate stats and show on google maps, also tracks with app closed | Jetpack compose, Kotlin | [GH](https://github.com/sDevPrem/run-track) | [tbd](https://github.com/sDevPrem/run-track/issues/10) | 
 | Stronk | Web app for exercise tracking, mainly geared towards Jim Wendler's 5/3/1 | Go/Svelte | [GH](https://github.com/bcspragu/stronk) | MIT |
 | Verifit | Minimalist fitness tracker inspired by FitNotes with exercise tracking and data visualization (*archived*) | Java | [GH](https://github.com/MakisChristou/verifit) | GPL-3.0 |
+| vitaflex-ai | platform with AI to chat, recognize food (didn't work for me), generate meal plans & workout plans | python, TS, react, fastAPI | [GH](https://github.com/syeda434am/VitaFlex-AI) | MIT |
 | Waistline  | Android app to track food, calorie intake and weight       | JS, Cordova, Framework7| [GH](https://github.com/davidhealey/waistline)                    | GPL-3.0 |
 | Workout time! | app for managing and performing conditioning workouts | Flutter | [GL](https://gitlab.com/ideotec/workouttime), [f-droid](https://f-droid.org/packages/es.ideotec.workouttime/) | GPL v3 |
 
