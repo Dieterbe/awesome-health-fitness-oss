@@ -48,9 +48,12 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 | Just another Workout Timer | Build, time and track workouts | Flutter | [GH](https://github.com/blockbasti/just_another_workout_timer) | MIT |
 | Kenko | Beatiful Workout builder and logger (no stats/viz/progressions)| Kotlin | [GH](https://github.com/Iamlooker/Kenko) | GPL-3 |
 | openWorkout | Simple conditioning workout trainer that puts your privacy first, with pre-configured workout plans | Java | [GH](https://github.com/oliexdev/openWorkout) | GPL-3.0 |
+| OpenTrackers | Workout, calorie, task tracker for iOS and apple watch | Swift | [GH](https://github.com/open-trackers) | MPL |
 | Stronk | Web app for exercise tracking, mainly geared towards Jim Wendler's 5/3/1 | Go/Svelte | [GH](https://github.com/bcspragu/stronk) | MIT |
 | Verifit | Minimalist fitness tracker inspired by FitNotes with exercise tracking and data visualization (*archived*) | Java | [GH](https://github.com/MakisChristou/verifit) | GPL-3.0 |
 | Waistline  | Android app to track food, calorie intake and weight       | JS, Cordova, Framework7| [GH](https://github.com/davidhealey/waistline)                    | GPL-3.0 |
 | Workout time! | app for managing and performing conditioning workouts | Flutter | [GL](https://gitlab.com/ideotec/workouttime), [f-droid](https://f-droid.org/packages/es.ideotec.workouttime/) | GPL v3 |
 
 ## Finding more health & fitness Free/Open Source projects
+
+GitHub topics: [fitness](https://github.com/topics/fitness), [gym](https://github.com/topics/gym), [gym-app](https://github.com/topics/gym-app), [workout-planner](https://github.com/topics/workout-planner),[workout-tracker](https://github.com/topics/workout-tracker)
