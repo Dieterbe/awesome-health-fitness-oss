@@ -27,6 +27,7 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 | Flexify | Offline quick lifts tracker with progress visualization - limited exercise library | Flutter | [GH](https://github.com/brandonp2412/Flexify), [Hosted](https://brandonp2412.github.io/Flexify/) | MIT |
 | LiftLog    | Local-only. Build and track lifting workouts and progression, and share workouts to your feed (optional) for android/ios/web | .NET, react native | [GH](https://github.com/LiamMorrow/LiftLog), [Reddit](https://www.reddit.com/r/opensource/comments/17vp9pp/liftlog_an_easy_to_use_open_source_gym_tracking/)| AGPL-3, [Commercially supported](https://liftlog.online/)    |
 | Liftosaur | Lifting tracker PWA for coders. uses scripting language to program progressive overload, deloads in premade, or custom plans | TS, Preact| [GH](https://github.com/astashov/liftosaur)                      |    AGPL-3     |
+| MyFit | PWA Workout tracker inspired by the RP Hypertrophy App | Node, TS, CockroachDB | [GH](https://github.com/WhyAsh5114/MyFit), [hosted](https://myfit.fit/) | AGPL-3 |
 | OpenHIIT | Cross-platform HIIT and Tabata interval timer with customizable timers and audio cues | Flutter | [GH](https://github.com/a-mabe/OpenHIIT) | MIT |
 | OpenScale | Track and visualize weight and 22 other body metrics - supports many bluetooth scales | Java | [GH](https://github.com/oliexdev/openScale) | GPLv3|
 | OpenTracks | Navigate, log, analyze outdoor workouts, with gadget integrations | Java | [GH](https://github.com/OpenTracksApp/OpenTracks), [home](https://opentracksapp.com/) | apache-2 |
@@ -35,7 +36,8 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 | Simple | Create, schedule, track, analyze your lifting workouts locally | TS | [GH](https://github.com/basarsubasi/simplefitnessapp) | MIT |
 | Tapiriik   | Sync between many fitness services (for outdoor activities)                          | Python | [GH](https://github.com/cpfair/tapiriik), [Hosted](https://tapiriik.com/)                          |   apache-2, commercial auto-syncing      |
 | Unbroken | Progressive Web App for strength & cardio tracking, based on the Tactical Barbell books | React | [GH](https://github.com/Bruno-366/Unbroken), [home](https://unbroken-app.com/) | MIT |
-| Wger       | Webapp + mobile app for weight lifting, body measurements, nutrition tracking and gym management. Self-hostable | Python, Django, Flutter | [home](https://wger.de),    [GH](https://github.com/wger-project)                                          | AGPL-3    |
+| Wger       | Webapp + mobile app for weight lifting, body measurements, nutrition tracking (backed by OFF and USDA) and gym management. Self-hostable | Python, Django, Flutter | [home](https://wger.de),    [GH](https://github.com/wger-project)                                          | AGPL-3    |
+| Wingfit |  fitness app to plan your workouts, track your personal records and leverage smartwatch data |FastAPI (py), Angular (TS)| [GH](https://github.com/itskovacs/wingfit) |
 | Workout-tracker| Self-hosted, all-inclusive workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities | Go, htmx, tailwind | [GH](https://github.com/jovandeginste/workout-tracker),    [HN](https://news.ycombinator.com/item?id=39549194) | MIT |
 
 ## Interesting health & fitness Free/Open Source projects
@@ -47,6 +49,7 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 | Elevate    | Web/Mac/Windows analytics and more around Strava and relive ([no screenshots?](https://github.com/thomaschampagne/elevate/issues/1229))| TS, Angular, D3, LokiJS| [GH](https://github.com/thomaschampagne/elevate), [home](https://thomaschampagne.github.io/elevate-docs/)                 |      MPL-2   |
 | Just another Workout Timer | Build, time and track workouts | Flutter | [GH](https://github.com/blockbasti/just_another_workout_timer) | MIT |
 | Kenko | Beatiful Workout builder and logger (no stats/viz/progressions)| Kotlin | [GH](https://github.com/Iamlooker/Kenko) | GPL-3 |
+| OpenNutriTracker | nutrition tracking, barcode scanning backed by OFF and USDA| Flutter | [GH](https://github.com/simonoppowa/OpenNutriTracker) | 
 | openWorkout | Simple conditioning workout trainer that puts your privacy first, with pre-configured workout plans | Java | [GH](https://github.com/oliexdev/openWorkout) | GPL-3.0 |
 | OpenTrackers | Workout, calorie, task tracker for iOS and apple watch | Swift | [GH](https://github.com/open-trackers) | MPL |
 | Stronk | Web app for exercise tracking, mainly geared towards Jim Wendler's 5/3/1 | Go/Svelte | [GH](https://github.com/bcspragu/stronk) | MIT |
