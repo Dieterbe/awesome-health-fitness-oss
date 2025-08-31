@@ -18,6 +18,7 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 | Name       | Description                                                    | Tech | Links                                                                 | License |
 |------------|----------------------------------------------------------------|------|----------------------------------------------------------------------|---------|
 | Body.build | Make science-based lifting programs & macros, aims to be next-gen fitness wikipedia       | Flutter | [home](https://body.build), [GH](https://github.com/Dieterbe/body.build) | AGPL-3 |
+| Elevate    | Web/Mac/Windows analytics and more around Strava and relive | TS, Angular, D3, LokiJS| [GH](https://github.com/thomaschampagne/elevate), [home](https://thomaschampagne.github.io/elevate-docs/)                 |      MPL-2   |
 | Energize   | Track food and nutrition (macros, micros, vitamins) easily and fast.               | Flutter | [Codeberg](https://codeberg.org/epinez/Energize)                     |      AGPL-3   |
 | Fast N Fitness | Android app to log lifts, cardio and body metrics + visualize progress. Built-in music player - limited exercise library| Java | [GH](https://github.com/brodeurlv/fastnfitness) | BSD-3-Clause |
 | Feeel      | Android and Linux app to quickly define or follow conditioning workouts       | Flutter | [GL](https://gitlab.com/enjoyingfoss/feeel)                       |      AGPL-3   |
@@ -49,7 +50,6 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 |------------|----------------------------------------------------------------|------|----------------------------------------------------------------------|---------|
 | 5/3/1 Log | basic app to track your workouts and progress using the popular 5/3/1 strength training method | Flutter | [GH](https://github.com/Willames-Jr/fivetone_log), [f-droid](https://f-droid.org/packages/com.willamesjr.fivetlog/) | GPL-3 |
 | Dice GAinz | Random workout generation ([not tracking](https://github.com/ramzan/dicegainz/issues/8)) based on the General Gainz training method | Kotlin | [GH](https://github.com/ramzan/dicegainz) | GPL-3.0 |
-| Elevate    | Web/Mac/Windows analytics and more around Strava and relive ([no screenshots?](https://github.com/thomaschampagne/elevate/issues/1229))| TS, Angular, D3, LokiJS| [GH](https://github.com/thomaschampagne/elevate), [home](https://thomaschampagne.github.io/elevate-docs/)                 |      MPL-2   |
 | Just another Workout Timer | Build, time and track workouts | Flutter | [GH](https://github.com/blockbasti/just_another_workout_timer) | MIT |
 | Kenko | Beatiful Workout builder and logger (no stats/viz/progressions)| Kotlin | [GH](https://github.com/Iamlooker/Kenko) | GPL-3 |
 | NeverSkip | polished workout planner and tracker (commercial app) | Flutter, firebase | [GH](https://github.com/NeXTormer/NeverSkip) | AGPL-3 |
