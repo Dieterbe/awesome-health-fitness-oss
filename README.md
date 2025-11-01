@@ -37,6 +37,7 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 | runFlutterRun | outdoor activity tracker& viewer with social component (comments etc) | Flutter, Java | [GH](https://github.com/BenjaminCanape/RunFlutterRun) | MIT |
 | RunnerUp | Open source run tracker with GPS tracking, heart rate monitoring, and external app sync - android and wearOS, integrates with other services - looks great| Java | [GH](https://github.com/jonasoreland/runnerup) | GPL-3.0 |
 | Simple | Create, schedule, track, analyze your lifting workouts locally | TS | [GH](https://github.com/basarsubasi/simplefitnessapp) | MIT |
+| Statistics-For-Strava | Dashboard to visualize and compute various insights from Strava data | PHP | [GH](https://github.com/robiningelbrecht/statistics-for-strava)|AGPL-3|
 | Tapiriik   | Sync between many fitness services (for outdoor activities)                          | Python | [GH](https://github.com/cpfair/tapiriik), [Hosted](https://tapiriik.com/)                          |   apache-2, commercial auto-syncing      |
 | Trale | Beautiful app focused on weight tracking and predicting (for android) | Flutter | [GH](https://github.com/QuantumPhysique/trale) | AGPL-3 |
 | Unbroken | Progressive Web App for strength & cardio tracking, based on the Tactical Barbell books | React | [GH](https://github.com/Bruno-366/Unbroken), [home](https://unbroken-app.com/) | MIT |
