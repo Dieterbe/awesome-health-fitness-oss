@@ -17,6 +17,7 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 
 | Name       | Description                                                    | Tech | Links                                                                 | License |
 |------------|----------------------------------------------------------------|------|----------------------------------------------------------------------|---------|
+| Bloodboy | Privacy-first browser-based blood test tracker with local storage and visualization. | Next.js, TS | [GH](https://github.com/mizoloff/bloodboy) | MIT |
 | Body.build | Make science-based lifting programs & macros, aims to be next-gen fitness wikipedia       | Flutter | [home](https://body.build), [GH](https://github.com/Dieterbe/body.build) | AGPL-3 |
 | Elevate    | Web/Mac/Windows analytics and more around Strava and relive | TS, Angular, D3, LokiJS| [GH](https://github.com/thomaschampagne/elevate), [home](https://thomaschampagne.github.io/elevate-docs/)                 |      MPL-2   |
 | Energize   | Track food and nutrition (macros, micros, vitamins) easily and fast.               | Flutter | [Codeberg](https://codeberg.org/epinez/Energize)                     |      AGPL-3   |
