@@ -65,6 +65,7 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 | vitaflex-ai | platform with AI to chat, recognize food (didn't work for me), generate meal plans & workout plans | python, TS, react, fastAPI | [GH](https://github.com/syeda434am/VitaFlex-AI) | MIT |
 | Waistline  | Android app to track food, calorie intake and weight       | JS, Cordova, Framework7| [GH](https://github.com/davidhealey/waistline)                    | GPL-3.0 |
 | Workout time! | app for managing and performing conditioning workouts | Flutter | [GL](https://gitlab.com/ideotec/workouttime), [f-droid](https://f-droid.org/packages/es.ideotec.workouttime/) | GPL v3 |
+| SparkyFitness | AI powered self-hosted nutrition tracker & planner for families | Typescript, node, postgres | [GH](https://github.com/CodeWithCJ/SparkyFitness) | custom non-commercial |
 
 ## Finding more health & fitness Free/Open Source projects
 
