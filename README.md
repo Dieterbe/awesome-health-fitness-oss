@@ -1,6 +1,6 @@
 # Awesome Health And Fitness OSS Projects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Overviews of interesting health and fitness Free Software / Open Source projects
-The goal here is *not* to be a complete list of every project in existince. Instead we have 3 lists:
+The goal here is *not* to be a complete list of every project in existence. Instead we have 3 lists:
 
 * [awesome projects](#awesome-health--fitness-freeopen-source-projects)
 * [interesting projects that didn't make it to the main list (yet)](#interesting-health--fitness-freeopen-source-projects)
