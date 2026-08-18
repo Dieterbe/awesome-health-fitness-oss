@@ -53,6 +53,7 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 | 5/3/1 Log | basic app to track your workouts and progress using the popular 5/3/1 strength training method | Flutter | [GH](https://github.com/Willames-Jr/fivetone_log), [f-droid](https://f-droid.org/packages/com.willamesjr.fivetlog/) | GPL-3 |
 | BuffBook | Free science-based guide to muscle hypertrophy and resistance training | Jekyll | [home](https://buffbook.org), [GH](https://github.com/classy-giraffe/BuffBook) | CC BY-NC-SA |
 | Dice GAinz | Random workout generation ([not tracking](https://github.com/ramzan/dicegainz/issues/8)) based on the General Gainz training method | Kotlin | [GH](https://github.com/ramzan/dicegainz) | GPL-3.0 |
+| Dredfit    | Adaptive bodyweight training for iPhone. Starts easy and adjusts the next workout from one question after each session. No account, no network calls. Fixed library of 40 exercises, no custom routines | Swift, SwiftUI | [GH](https://github.com/dredfort42/dredfit), [home](https://dredfit.com) | GPL-3 |
 | Endurain | FOSS clone of Strava with activities, social features, gear, summaries (but no goals, heatmaps, segments | Python, Vue, SQL | [GH](https://github.com/joaovitoriasilva/endurain), [home](https://docs.endurain.com/) | AGPL-3 |
 | Just another Workout Timer | Build, time and track workouts | Flutter | [GH](https://github.com/blockbasti/just_another_workout_timer) | MIT |
 | Kenko | Beatiful Workout builder and logger (no stats/viz/progressions)| Kotlin | [GH](https://github.com/Iamlooker/Kenko) | GPL-3 |
