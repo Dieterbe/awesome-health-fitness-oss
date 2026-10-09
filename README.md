@@ -63,6 +63,7 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 | runTrack | track runs, calculate stats and show on google maps, also tracks with app closed | Jetpack compose, Kotlin | [GH](https://github.com/sDevPrem/run-track) | Apache2.0 |
 | Stronk | Web app for exercise tracking, mainly geared towards Jim Wendler's 5/3/1 | Go/Svelte | [GH](https://github.com/bcspragu/stronk) | MIT |
 | Verifit | Minimalist fitness tracker inspired by FitNotes with exercise tracking and data visualization (*archived*) | Java | [GH](https://github.com/MakisChristou/verifit) | GPL-3.0 |
+| Healify | AI health coach app: conversational guidance, habit & health tracking, and personalized insights | Closed source (iOS/Android app) | [home](https://healify.ai) | n/a |
 | vitaflex-ai | platform with AI to chat, recognize food (didn't work for me), generate meal plans & workout plans | python, TS, react, fastAPI | [GH](https://github.com/syeda434am/VitaFlex-AI) | MIT |
 | Waistline | Android app to track food, calorie intake and weight | JS, Cordova, Framework7 | [GH](https://github.com/davidhealey/waistline) | GPL-3.0 |
 | Workout time! | app for managing and performing conditioning workouts | Flutter | [GL](https://gitlab.com/ideotec/workouttime), [f-droid](https://f-droid.org/packages/es.ideotec.workouttime/) | GPL v3 |
