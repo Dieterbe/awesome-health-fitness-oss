@@ -57,6 +57,7 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 | Just another Workout Timer | Build, time and track workouts | Flutter | [GH](https://github.com/blockbasti/just_another_workout_timer) | MIT |
 | Kenko | Beatiful Workout builder and logger (no stats/viz/progressions) | Kotlin | [GH](https://github.com/Iamlooker/Kenko) | GPL-3 |
 | NeverSkip | polished workout planner and tracker (commercial app) | Flutter, firebase | [GH](https://github.com/NeXTormer/NeverSkip) | AGPL-3 |
+| Open Health Sync | Self-hosted aggregator that normalizes Apple Health, Health Connect, Oura, WHOOP, Withings, Strava and other wearable data into Postgres, with a REST API, FHIR R4 and Open mHealth output, CSV/Parquet export and a read-only MCP server | Go, PostgreSQL | [GH](https://github.com/soma-intelligence/open-health-sync) | AGPL-3 |
 | OpenNutriTracker | nutrition tracking, barcode scanning backed by OFF and USDA | Flutter | [GH](https://github.com/simonoppowa/OpenNutriTracker) |
 | openWorkout | Simple conditioning workout trainer that puts your privacy first, with pre-configured workout plans | Java | [GH](https://github.com/oliexdev/openWorkout) | GPL-3.0 |
 | OpenTrackers | Workout, calorie, task tracker for iOS and apple watch | Swift | [GH](https://github.com/open-trackers) | MPL |
