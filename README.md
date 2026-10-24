@@ -22,6 +22,7 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 | Fast N Fitness | Android app to log lifts, cardio and body metrics + visualize progress. Built-in music player - limited exercise library | Java | [GH](https://github.com/brodeurlv/fastnfitness) | BSD-3-Clause |
 | Feeel | Android and Linux app to quickly define or follow conditioning workouts | Flutter | [GL](https://gitlab.com/enjoyingfoss/feeel) | AGPL-3 |
 | FitBook | Macro&Calorie logging app with offline [food database](https://corgis-edu.github.io/corgis/csv/food/) and OFF barcode scanning | Flutter | [GH](https://github.com/brandonp2412/FitBook) | MIT |
+| FoodVisionAI (NadY) | AI food vision & calorie tracker with Bento UI, intermittent fasting timer, and Apple HealthKit integration | Swift, SwiftUI | [GH](https://github.com/UniversalSDK/FoodVisionAI-iOS), [App Store](https://apps.apple.com/app/id6740164035) | MIT |
 | FitoTrack | Log outdoor workouts and view stats and maps | Java | [Codeberg](https://codeberg.org/jannis/FitoTrack) | GPL-3 |
 | FitTrackee | Self-Hosted Web app to track outdoor activities from your own GPX files - beta | Python/Vue.js | [GH](https://github.com/SamR1/FitTrackee), [home](https://fittrackee.org/) | AGPL-3 |
 | Flexify | Offline quick lifts tracker with progress visualization - limited exercise library | Flutter | [GH](https://github.com/brandonp2412/Flexify), [Hosted](https://brandonp2412.github.io/Flexify/) | MIT |
