@@ -17,6 +17,7 @@ Let me know via an issue or PR why you believe a project should be added / (re)m
 | Name | Description | Tech | Links | License |
 | ------------ | ---------------------------------------------------------------- | ------ | ---------------------------------------------------------------------- | --------- |
 | Body.build | Make science-based lifting programs & macros, aims to be next-gen fitness wikipedia | Flutter | [home](https://body.build), [GH](https://github.com/Dieterbe/body.build) | AGPL-3 |
+| BuzzBike | Android bike computer with a cascade calorie model (power meter → HR band → speed-band METs) that shows the model used and its uncertainty; tracks component wear; pushes rides to your own endpoint via signed webhooks (no account, no backend). UI and first release in progress | Kotlin, Compose, Room, Hilt, MapLibre | [GH](https://github.com/CrisAlva1414/BuzzBike) | MIT |
 | Elevate | Web/Mac/Windows analytics and more around Strava and relive | TS, Angular, D3, LokiJS | [GH](https://github.com/thomaschampagne/elevate), [home](https://thomaschampagne.github.io/elevate-docs/) | MPL-2 |
 | Energize | Track food and nutrition (macros, micros, vitamins) easily and fast. | Flutter | [Codeberg](https://codeberg.org/epinez/Energize) | AGPL-3 |
 | Fast N Fitness | Android app to log lifts, cardio and body metrics + visualize progress. Built-in music player - limited exercise library | Java | [GH](https://github.com/brodeurlv/fastnfitness) | BSD-3-Clause |
